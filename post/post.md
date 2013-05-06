@@ -241,3 +241,8 @@ and the implementation so far:
             Y = y;
         }
     }
+
+Source
+-------
+
+The source for this article is in a [public git repo](https://github.com/liammclennan/functional-game-of-life), under the tag `data-and-render`.
